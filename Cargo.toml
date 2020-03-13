@@ -1,6 +1,6 @@
 [package]
 name = "text-summarize"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["natefinger"]
 edition = "2018"
 description="A function which takes text and summarizes it in 5 lines"
